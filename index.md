@@ -4,7 +4,7 @@ title: "Research"
 
 ## Research
 
-I study the dynamics of gas bubbles in turbulence in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University.
+I study the dynamics of **gas bubbles** in **turbulence** in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University, with applications to gas transfer at the ocean surface. Broadly, I am interested in **multiphase turbulent flows** and the **experimental and numerical techniques** used to study them.
 
 ---
 

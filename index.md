@@ -1,5 +1,5 @@
 ---
-title: "Daniel Ruth"
+title: "Research"
 ---
 
 ## Research

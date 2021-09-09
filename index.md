@@ -1,6 +1,21 @@
+---
+title: Daniel Ruth
+---
+
 ## Research
 
 I study the dynamics of gas bubbles in turbulence in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University.
+
+### Turbulent break-up of bubbles
+
+In a turbulent flow, bubbles will break apart due to stresses from the surrounding turbulent liquid if they are large enough that surface tension is incapable of preventing severe deformations. Knowledge of the **dynamics of the break-ups** and the **distribution of bubble sizes** that are produced is important to modeling bubble-mediated gas transfer, as occurs with breaking waves on the ocean and in industrial bubble column reactors.
+
+<br>
+<img src="images/bubblerelease-turbulent-filldur1.gif" width="500">
+<br>
+
+The animation above shows the break-up of a bubble that is initially much larger than the scale at which surface tension could counteract turbulent stresses.
+
 
 ### Bubble rise dynamics in turbulence
 
@@ -15,16 +30,6 @@ The animation above shows experimentally-obtained three-dimensional bubble traje
 *Related publications*
 - **Ruth, D. J.**, Vernet, M., Perrard, S., & Deike, L. (2021). [The effect of nonlinear drag on the rise velocity of bubbles in turbulence](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/effect-of-nonlinear-drag-on-the-rise-velocity-of-bubbles-in-turbulence/38BB9CF85C4A18A99220C901EA47B35D). Journal of Fluid Mechanics, 924.
 
-
-### Turbulent break-up of bubbles
-
-In a turbulent flow, bubbles will break apart due to stresses from the surrounding turbulent liquid if they are large enough that surface tension is incapable of preventing severe deformations. Knowledge of the **dynamics of the break-ups** and the **distribution of bubble sizes** that are produced is important to modeling bubble-mediated gas transfer, as occurs with breaking waves on the ocean and in industrial bubble column reactors.
-
-<br>
-<img src="images/bubblerelease-turbulent-filldur1.gif" width="500">
-<br>
-
-The animation above shows the break-up of a bubble that is initially much larger than the scale at which surface tension could counteract turbulent stresses.
 
 ### Pinch-off of air bubbles deformed by tubulence
 

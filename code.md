@@ -1,5 +1,5 @@
 ---
-title: Daniel Ruth | Code
+title: Code
 ---
 
 ## Code

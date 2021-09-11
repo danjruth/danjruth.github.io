@@ -19,6 +19,9 @@ In a turbulent flow, bubbles will break apart due to stresses from the surroundi
 The animation above shows the break-up of a bubble that is initially much larger than the scale at which surface tension could counteract turbulent stresses.
 --->
 
+*Related publications*
+-  Riviere, A., **Ruth, D.**,  Mostert, W.,  Deike, L. and Perrard, S. Bubble fragmentation in turbulent flow. *(Under review.)*
+
 ---
 
 ### Bubble rise dynamics in turbulence

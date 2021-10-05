@@ -45,3 +45,13 @@ Bubbles broken apart by turbulence can adopt **significantly deformed shapes** d
 
 *Related publications*
 - **Ruth, D. J.**, Mostert, W., Perrard, S., & Deike, L. (2019). [Bubble pinch-off in turbulence](https://www.pnas.org/content/116/51/25412.short). Proceedings of the National Academy of Sciences, 116(51), 25412-25417.
+
+---
+
+### Air entrainment by breaking waves
+
+Breaking waves entrain air bubbles under the ocean surface, which enhance the flux of mass between the ocean and atmosphere. We studied air entrainment in a **wind-wave channel** (in which water waves are created by the combined action of a mechanical wavemaker and air blowing over the water surface). The video below shows a **three-dimensional reconstruction** of the **bubble trajectories** underwater, obtained with the images recorded from two side-by-side cameras shown in the foreground (one of which is enlarged for clarity in the background).
+
+<br>
+<img src="images/windwave-stereobubbles.gif" width=800>
+<br>

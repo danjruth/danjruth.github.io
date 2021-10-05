@@ -20,7 +20,7 @@ The animation above shows the break-up of a bubble that is initially much larger
 --->
 
 *Related publications*
--  Riviere, A., **Ruth, D.**,  Mostert, W.,  Deike, L. and Perrard, S. Bubble fragmentation in turbulent flow. *(Under review.)*
+-  Riviere, A., **Ruth, D.**,  Mostert, W.,  Deike, L. and Perrard, S. Capillary driven fragmentation of large gas bubbles in turbulence. *(Under review.)*
 
 ---
 

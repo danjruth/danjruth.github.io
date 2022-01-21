@@ -15,6 +15,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.com/citations?user=ofp5PZcAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/danielruth/">LinkedIn</a> | <a href="https://github.com/danjruth">Github</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: G-RQ36MFG9Q9 # your Google Analytics tracking ID here
+google_analytics: G-H71G6K48EG # your Google Analytics tracking ID here
 #github:
 #  is_project_page: false

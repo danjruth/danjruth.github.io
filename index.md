@@ -20,8 +20,8 @@ The animation above shows the break-up of a bubble that is initially much larger
 --->
 
 *Related publications*
--  Riviere, A., **Ruth, D.**,  Mostert, W.,  Deike, L. and Perrard, S. (2021). [Capillary driven fragmentation of large gas bubbles in turbulence](https://arxiv.org/abs/2112.06480). *(Manuscript uploaded to arXiv)*
--  Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up. *(Manuscript in preparation)*
+-  Rivière, A., **Ruth, D.**,  Mostert, W.,  Deike, L. and Perrard, S. (2022). [Capillary driven fragmentation of large gas bubbles in turbulence](https://arxiv.org/abs/2112.06480). *(Manuscript uploaded to arXiv)*
+-  **Ruth, D.**, Aiyer, A., Rivière, A., Perrard, S., and Deike, L. (2022). [Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up](https://arxiv.org/abs/2202.07528). *(Manuscript uploaded to arXiv)*
 
 ---
 
@@ -57,4 +57,4 @@ Breaking waves entrain air bubbles under the ocean surface, which enhance the fl
 <img src="images/windwave-stereobubbles.gif" width=800>
 
 *Related publications*
-- Bubble trajectories under breaking waves. *(Manuscript in preparation)*
+- **Ruth, D.**, Néel, B., Erinin, M. A., Mazzatenta, M., Jacquette, R., Veron, F., and Deike, L. Three-dimensional measurements of bubble trajectories under breaking wind-waves. *(Manuscript in preparation)*

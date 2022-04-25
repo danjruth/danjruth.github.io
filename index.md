@@ -57,4 +57,4 @@ Breaking waves entrain air bubbles under the ocean surface, which enhance the fl
 <img src="images/windwave-stereobubbles.gif" width=800>
 
 *Related publications*
-- **Ruth, D.**, Néel, B., Erinin, M. A., Mazzatenta, M., Jacquette, R., Veron, F., and Deike, L. Three-dimensional measurements of bubble trajectories under breaking wind-waves. *(Manuscript in preparation)*
+- **Ruth, D.**, Néel, B., Erinin, M. A., Mazzatenta, M., Jaquette, R., Veron, F., and Deike, L. Three-dimensional measurements of bubble trajectories under breaking wind-waves. *(Manuscript in preparation)*

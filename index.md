@@ -4,7 +4,9 @@ title: "Research"
 
 ## Research
 
-I study the dynamics of **gas bubbles** in **turbulence** in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University, with applications to gas transfer at the ocean surface. Broadly, I am interested in **multiphase turbulent flows** and the **experimental and numerical techniques** used to study them.
+I am a Postdoctoral Researcher in the [Coletti Group](https://ifd.ethz.ch/research/group-coletti.html), which is part of the [Institute of Fluid Dynamics](https://ifd.ethz.ch/) at ETH Zurich. During my PhD, I studied the dynamics of **gas bubbles** in **turbulence** in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University, with applications to gas transfer at the ocean surface.
+
+Broadly, I am interested in **multiphase turbulent flows** and the **experimental and numerical techniques** used to study them.
 
 ---
 

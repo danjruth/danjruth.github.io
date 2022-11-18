@@ -22,7 +22,7 @@ The animation above shows the break-up of a bubble that is initially much larger
 --->
 
 *Related publications*
--  **Ruth, D.**, Aiyer, A., Rivière, A., Perrard, S., and Deike, L. (2022). **[Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up](https://arxiv.org/abs/2202.07528)**. *Journal of Fluid Mechanics*, *(in press)*.
+-  **Ruth, D.**, Aiyer, A., Rivière, A., Perrard, S., and Deike, L. (2022). **[Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/experimental-observations-and-modelling-of-subhinze-bubble-production-by-turbulent-bubble-breakup/B1978FC9D3E60B90B943458B92C5D08C)**. *Journal of Fluid Mechanics*, 951, A32.
 -  Rivière, A., **Ruth, D. J.**, Mostert, W., Deike, L., & Perrard, S. (2022). **[Capillary driven fragmentation of large gas bubbles in turbulence](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.083602)**. *Physical Review Fluids*, 7(8), 083602.
 
 ---

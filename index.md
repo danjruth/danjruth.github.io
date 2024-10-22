@@ -20,7 +20,7 @@ I study free surfaces experimentally: on the left in the animation below, **homo
 <img src="images/tt_wwt_together_compressed.gif" width=800>
 
 *Related publications*
-- **Ruth, D. J.**, & Coletti, F. (2024). **[Structure and energy transfer in homogeneous turbulence below a free surface](https://www.arxiv.org/abs/2406.05889)**. *arXiv preprint*.
+- **Ruth, D. J.**, & Coletti, F. (2024). **[Structure and energy transfer in homogeneous turbulence below a free surface](https://www.arxiv.org/abs/2406.05889)**. *Accepted for publication by the Journal of Fluid Mechanics*.
 
 ---
 

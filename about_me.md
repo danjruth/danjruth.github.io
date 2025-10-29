@@ -6,8 +6,6 @@ I am a Postdoctoral Researcher at **ETH Zurich** working in the [Coletti Group](
 
 I've enjoyed internships at **Volvo Group Trucks Technology** (2015), the Combustion Research Facility at **Sandia National Laboratories** (2016), and the **National Renewable Energy Laboratory** (2017).
 
-You can download my full CV [here](https://danjruth.github.io/CV_DanielRuth.pdf).
-
 ---
 
 ### Awards & funding

@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>daruth at ethz.ch</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -26,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my research portfolio. Below are some of my recent projects.
+I am a Postdoctoral Researcher in the [Coletti Group](https://ifd.ethz.ch/research/group-coletti.html), which is part of the [Institute of Fluid Dynamics](https://ifd.ethz.ch/) at ETH Zurich. During my PhD, I studied the dynamics of **gas bubbles** in **turbulence** in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University, with applications to gas transfer at the ocean surface.
+
+Broadly, I am interested in **multiphase turbulent flows** and the **experimental and numerical techniques** used to study them.
 
 ---
 
@@ -39,4 +41,15 @@ I study free surfaces experimentally: on the left in the animation below, **homo
 **Related Publications:**
 <div class="publications">
   {% bibliography -q @*[project=freesurface]* %}
+</div>
+
+---
+
+### Bubbles in turbulence
+
+In a turbulent flow, bubbles will break apart due to stresses from the surrounding turbulent liquid if they are large enough that surface tension is incapable of preventing severe deformations. Knowledge of the **dynamics of the break-ups** and the **distribution of bubble sizes** that are produced is important to modeling bubble-mediated gas transfer, as occurs with breaking waves on the ocean and in industrial bubble column reactors.
+
+**Related Publications:**
+<div class="publications">
+  {% bibliography -q @*[project=bubbles]* %}
 </div>

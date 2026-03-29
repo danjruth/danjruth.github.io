@@ -27,3 +27,16 @@ latest_posts:
 ---
 
 Welcome to my research portfolio. Below are some of my recent projects.
+
+---
+
+### Turbulence near free surfaces
+
+A free surface such as the ocean-atmosphere interface will modify the structure of a turbulent flow, and wind acting at a free surface can generate turbulence in the water below.
+
+I study free surfaces experimentally: on the left in the animation below, **homogeneous turbulence** is generated in the bulk of a liquid by arrays of randomly-actuated synthetic jets; on the right, **wind** blown along the water surface in a long channel induces both **surface gravity waves** and **turbulence** in the water. In both setups, **particle image velocimetry** is used to obtain the vorticity fields (shown in red and blue), and **laser-induced fluorescence** is used to locate the air-water interface (shown in cyan).
+
+**Related Publications:**
+<div class="publications">
+  {% bibliography -q @*[project=freesurfaces]* %}
+</div>

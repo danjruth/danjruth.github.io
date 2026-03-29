@@ -2,7 +2,7 @@
 layout: about
 title: Research
 permalink: /
-nav: false
+nav: true
 profile:
   align: right
   image: prof_pic.jpg

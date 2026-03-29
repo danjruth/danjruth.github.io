@@ -38,5 +38,5 @@ I study free surfaces experimentally: on the left in the animation below, **homo
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -q @*[project=freesurfaces]* %}
+  {% bibliography -q @*[project=freesurface]* %}
 </div>

@@ -2,6 +2,8 @@
 layout: about
 title: research
 subtitle: Postdoctoral Research, Institute of Fluid Dynamics, ETH Zurich
+nav: false
+permalink: /
 
 profile:
   align: right

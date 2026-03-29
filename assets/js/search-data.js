@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/new-site-draft/repositories/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/new-site-draft/teaching/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",

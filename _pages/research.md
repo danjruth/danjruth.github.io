@@ -32,6 +32,15 @@ Broadly, I am interested in **multiphase turbulent flows** and the **experimenta
 
 ---
 
+### Turbulent flows at wavy interfaces
+
+**Related Publications:**
+<div class="publications">
+  {% bibliography -q @*[project=waves]* %}
+</div>
+
+---
+
 ### Turbulence near free surfaces
 
 A free surface such as the ocean-atmosphere interface will modify the structure of a turbulent flow, and wind acting at a free surface can generate turbulence in the water below.

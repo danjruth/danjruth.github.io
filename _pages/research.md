@@ -36,7 +36,7 @@ Broadly, I am interested in **multiphase turbulent flows** and the **experimenta
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -q @*[project=waves]* %}
+  {% bibliography --group_by none -q @*[project=waves]* %}
 </div>
 
 ---
@@ -49,7 +49,7 @@ I study free surfaces experimentally: on the left in the animation below, **homo
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -q @*[project=freesurface]* %}
+  {% bibliography --group_by none -q @*[project=freesurface]* %}
 </div>
 
 ---
@@ -60,5 +60,5 @@ In a turbulent flow, bubbles will break apart due to stresses from the surroundi
 
 **Related Publications:**
 <div class="publications">
-  {% bibliography -q @*[project=bubbles]* %}
+  {% bibliography --group_by none -q @*[project=bubbles]* %}
 </div>

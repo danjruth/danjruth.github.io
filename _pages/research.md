@@ -44,7 +44,7 @@ Broadly, I am interested in **multiphase turbulent flows** and the **experimenta
 ### Turbulence near free surfaces
 
 <video autoplay loop muted playsinline width="100%">
-  <source src="assets/video/ux-decomposed.mp4" type="video/mp4">
+  <source src="assets/video/ux_decomposed.mp4" type="video/mp4">
 </video>
 
 A free surface such as the ocean-atmosphere interface will modify the structure of a turbulent flow, and wind acting at a free surface can generate turbulence in the water below.

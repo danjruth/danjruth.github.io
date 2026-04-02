@@ -32,7 +32,16 @@ Broadly, I am interested in **multiphase turbulent flows** and the **experimenta
 
 ---
 
-### Turbulent flows at wavy interfaces
+### Turbulence under wind-driven waves
+
+The wind-driven shear flow beneath the ocean surface is impacted by wind-generated waves which propagate overhead. I study the turbulent characteristics of these flumes in the wind-water-wave flume at ETH Zurich using techniques like particle image velocimetry and laser-induced fluorescence.
+
+<video autoplay loop muted playsinline width="100%">
+  <source src="assets/video/ux_decomposed.mp4" type="video/mp4">
+</video>
+
+The video above shows the velocity field beneath wind-driven waves, which can be decomposed into a depth-dependent mean flow, orbital motions, and turbulence.
+
 
 **Related Publications:**
 <div class="publications">
@@ -43,9 +52,6 @@ Broadly, I am interested in **multiphase turbulent flows** and the **experimenta
 
 ### Turbulence near free surfaces
 
-<video autoplay loop muted playsinline width="100%">
-  <source src="assets/video/ux_decomposed.mp4" type="video/mp4">
-</video>
 
 A free surface such as the ocean-atmosphere interface will modify the structure of a turbulent flow, and wind acting at a free surface can generate turbulence in the water below.
 

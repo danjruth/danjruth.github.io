@@ -25,9 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Researcher in the [Coletti Group](https://ifd.ethz.ch/research/group-coletti.html), which is part of the [Institute of Fluid Dynamics](https://ifd.ethz.ch/) at ETH Zurich. During my PhD, I studied the dynamics of **gas bubbles** in **turbulence** in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University, with applications to gas transfer at the ocean surface.
+I am a Postdoctoral Researcher in the [Coletti Group](https://ifd.ethz.ch/research/group-coletti.html), which is part of the [Institute of Fluid Dynamics](https://ifd.ethz.ch/) at ETH Zurich; beforehand I earned my Ph.D. in the [Deike Lab](https://ldeike.princeton.edu/) at Princeton University. 
 
 Broadly, I am interested in **multiphase turbulent flows** and the **experimental and numerical techniques** used to study them.
+<div style="clear: both;"></div>
 
 ---
 
@@ -66,7 +67,7 @@ In this experiment, the velocity beneath the surface is measured with **particle
 A free surface modifies the structure of a turbulent flow: vertical motions are inhibited by the presence of the surface, through which the fluid cannot pass. Further, my recent experimental work has shown that the turbulent cascade of energy is inhibited by the free surface. Approaching the surface, patches of energetic liquid are compressed vertically and extended horizontally, a "pancaking" effect which controls the inter-scale transfer of energy.
 
 <video autoplay loop muted playsinline width="100%">
-  <source src="assets/video/jacuzzi_wwt_together" type="video/mp4">
+  <source src="assets/video/jacuzzi_wwt_together.mp4" type="video/mp4">
 </video>
 
 On the left in the animation above, **homogeneous turbulence** is generated in the bulk of a liquid by arrays of randomly-actuated synthetic jets; on the right, **wind** blown along the water surface in the ETH wind-wave flume induces both **surface gravity waves** and **turbulence** in the water. In both setups, **particle image velocimetry** is used to obtain the vorticity fields (shown in red and blue), and **laser-induced fluorescence** is used to locate the air-water interface (shown in cyan).
@@ -81,6 +82,10 @@ On the left in the animation above, **homogeneous turbulence** is generated in t
 ### Bubbles in turbulence
 
 In a turbulent flow, bubbles will break apart due to stresses from the surrounding turbulent liquid if they are large enough that surface tension is incapable of preventing severe deformations. Knowledge of the **dynamics of the break-ups** and the **distribution of bubble sizes** that are produced is important to modeling bubble-mediated gas transfer, as occurs with breaking waves on the ocean and in industrial bubble column reactors.
+
+<video autoplay loop muted playsinline width="75%">
+  <source src="assets/video/bubble_release.mp4" type="video/mp4">
+</video>
 
 **Related Publications:**
 <div class="publications">

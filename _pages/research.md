@@ -87,6 +87,8 @@ In a turbulent flow, bubbles will break apart due to stresses from the surroundi
   <source src="assets/video/bubble_release.mp4" type="video/mp4">
 </video>
 
+Above, a large bubble is suddenly subjected to turbulence. The sizes of the bubbles into which it breaks are identified using **high-speed imaging** and **particle tracking**. 
+
 **Related Publications:**
 <div class="publications">
   {% bibliography --group_by none -q @*[project=bubbles]* %}

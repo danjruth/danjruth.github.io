@@ -27,7 +27,7 @@ latest_posts:
 
 I am a Postdoctoral Researcher at **ETH Zurich** working in the [Coletti Group](https://ifd.ethz.ch/research/group-coletti.html). Before coming to Zurich, I earned my Ph.D. in Mechanical and Aerospace Engineering in 2022 at **Princeton University** working in the [Deike Lab](https://ldeike.princeton.edu/), and I earned my bachelor's degree in Mechanical Engineering at the **Pennsylvania State University** in 2016.
 
-<img src="images/headshot_sitting.jpg" width=500>
+<img src="assets/img/headshot_sitting.jpg" width=500>
 
 I've enjoyed internships at **Volvo Group Trucks Technology** (2015), the Combustion Research Facility at **Sandia National Laboratories** (2016), and the **National Renewable Energy Laboratory** (2017).
 

@@ -51,7 +51,7 @@ The video above shows the velocity field beneath wind-driven waves, which can be
 
 ### Surface deformations due to turbulence
 
-Turbulence beneath a free surface imprints itself on the surface, causing deformations related to the vorticity (left) and degree of upwelling or downwelling (right) 
+Turbulence beneath a free surface imprints itself on the surface, causing deformations related to the vorticity (left) and degree of upwelling or downwelling (right).
 
 <video autoplay loop muted playsinline width="100%">
   <source src="assets/video/pumppower50_nrowsmask2_z-2.0mm_ri0_VORTDIV.mp4" type="video/mp4">
@@ -63,10 +63,13 @@ In this experiment, the velocity beneath the surface is measured with **particle
 
 ### Turbulence near free surfaces
 
+A free surface modifies the structure of a turbulent flow: vertical motions are inhibited by the presence of the surface, through which the fluid cannot pass. Further, my recent experimental work has shown that the turbulent cascade of energy is inhibited by the free surface. Approaching the surface, patches of energetic liquid are compressed vertically and extended horizontally, a "pancaking" effect which controls the inter-scale transfer of energy.
 
-A free surface such as the ocean-atmosphere interface will modify the structure of a turbulent flow, and wind acting at a free surface can generate turbulence in the water below.
+<video autoplay loop muted playsinline width="100%">
+  <source src="assets/video/jacuzzi_wwt_together" type="video/mp4">
+</video>
 
-I study free surfaces experimentally: on the left in the animation below, **homogeneous turbulence** is generated in the bulk of a liquid by arrays of randomly-actuated synthetic jets; on the right, **wind** blown along the water surface in a long channel induces both **surface gravity waves** and **turbulence** in the water. In both setups, **particle image velocimetry** is used to obtain the vorticity fields (shown in red and blue), and **laser-induced fluorescence** is used to locate the air-water interface (shown in cyan).
+On the left in the animation above, **homogeneous turbulence** is generated in the bulk of a liquid by arrays of randomly-actuated synthetic jets; on the right, **wind** blown along the water surface in the ETH wind-wave flume induces both **surface gravity waves** and **turbulence** in the water. In both setups, **particle image velocimetry** is used to obtain the vorticity fields (shown in red and blue), and **laser-induced fluorescence** is used to locate the air-water interface (shown in cyan).
 
 **Related Publications:**
 <div class="publications">

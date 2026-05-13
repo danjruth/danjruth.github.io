@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-13'
 papers:
   ofp5PZcAAAAJ:0EnyYjriUFMC:
     citations: 29
@@ -62,7 +62,7 @@ papers:
     title: 'Bubble motion and break-up in turbulence: fluid mechanics affecting bubbles entrained by breaking waves'
     year: '2022'
   ofp5PZcAAAAJ:UeHWp8X0CEIC:
-    citations: 33
+    citations: 34
     title: 'Time Series Analysis of Photovoltaic Soiling Station Data: Version 1.0, August 2017'
     year: '2017'
   ofp5PZcAAAAJ:UebtZRa9Y70C:
@@ -98,7 +98,7 @@ papers:
     title: "Three\u2010Dimensional Measurements of Air Entrainment and Enhanced Bubble Transport During Wave Breaking"
     year: '2022'
   ofp5PZcAAAAJ:aqlVkmm33-oC:
-    citations: 14
+    citations: 15
     title: Structure and energy transfer in homogeneous turbulence below a free surface
     year: '2024'
   ofp5PZcAAAAJ:dhFuZR0502QC:

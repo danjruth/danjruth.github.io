@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-05-29'
 papers:
   ofp5PZcAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -90,7 +90,7 @@ papers:
     title: Reconstructing turbulent and orbital motions under wind-driven waves
     year: '2026'
   ofp5PZcAAAAJ:Zph67rFs4hoC:
-    citations: 22
+    citations: 23
     title: Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up
     year: '2022'
   ofp5PZcAAAAJ:_kc_bZDykSQC:
@@ -114,7 +114,7 @@ papers:
     title: Rise Velocity of Bubbles in Turbulence
     year: '2020'
   ofp5PZcAAAAJ:kNdYIx-mwKoC:
-    citations: 41
+    citations: 42
     title: Capillary driven fragmentation of large gas bubbles in turbulence
     year: '2022'
   ofp5PZcAAAAJ:mVmsd5A6BfQC:

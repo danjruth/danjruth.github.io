@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-29'
 papers:
   ofp5PZcAAAAJ:0EnyYjriUFMC:
     citations: 32
@@ -70,7 +70,7 @@ papers:
     title: Bubble pinch-off in turbulence
     year: '2019'
   ofp5PZcAAAAJ:W7OEmFMy1HYC:
-    citations: 107
+    citations: 108
     title: Using ducted fuel injection to attenuate or prevent soot formation in mixing-controlled combustion strategies for engine applications
     year: '2018'
   ofp5PZcAAAAJ:Wp0gIr-vW9MC:
@@ -90,7 +90,7 @@ papers:
     title: Reconstructing turbulent and orbital motions under wind-driven waves
     year: '2026'
   ofp5PZcAAAAJ:Zph67rFs4hoC:
-    citations: 24
+    citations: 25
     title: Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up
     year: '2022'
   ofp5PZcAAAAJ:_kc_bZDykSQC:
@@ -114,7 +114,7 @@ papers:
     title: Rise Velocity of Bubbles in Turbulence
     year: '2020'
   ofp5PZcAAAAJ:kNdYIx-mwKoC:
-    citations: 43
+    citations: 44
     title: Capillary driven fragmentation of large gas bubbles in turbulence
     year: '2022'
   ofp5PZcAAAAJ:mVmsd5A6BfQC:
@@ -130,7 +130,7 @@ papers:
     title: 'Bubble pinch-off in turbulence: shape oscillations and escaping self-similarity'
     year: '2019'
   ofp5PZcAAAAJ:u-x6o8ySG0sC:
-    citations: 7
+    citations: 8
     title: Development and Verification of Reduced-Order Model for Diesel Spray Penetration and Spreading during Wall Impingement
     year: '2017'
   ofp5PZcAAAAJ:u5HHmVD_uO8C:

@@ -3,7 +3,7 @@ layout: about
 title: about me
 permalink: /about_me/
 nav: true
-subtitle: Postdoctoral Research, Institute of Fluid Dynamics, ETH Zurich
+subtitle: Postdoctoral Researcher, Institute of Fluid Dynamics, ETH Zurich
 
 profile:
   align: right

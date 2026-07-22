@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-22'
 papers:
   ofp5PZcAAAAJ:0EnyYjriUFMC:
-    citations: 32
+    citations: 34
     title: The effect of nonlinear drag on the rise velocity of bubbles in turbulence
     year: '2021'
   ofp5PZcAAAAJ:3fE2CSJIrl8C:
@@ -30,7 +30,7 @@ papers:
     title: 'Oceanic bubble size distributions: capillarity produces the tiny bubbles'
     year: '2023'
   ofp5PZcAAAAJ:9yKSN-GCB0IC:
-    citations: 120
+    citations: 121
     title: 'Ducted fuel injection: A new approach for lowering soot emissions from direct-injection engines'
     year: '2017'
   ofp5PZcAAAAJ:IjCSPb-OGe4C:
@@ -70,7 +70,7 @@ papers:
     title: Bubble pinch-off in turbulence
     year: '2019'
   ofp5PZcAAAAJ:W7OEmFMy1HYC:
-    citations: 108
+    citations: 109
     title: Using ducted fuel injection to attenuate or prevent soot formation in mixing-controlled combustion strategies for engine applications
     year: '2018'
   ofp5PZcAAAAJ:Wp0gIr-vW9MC:
@@ -90,7 +90,7 @@ papers:
     title: Reconstructing turbulent and orbital motions under wind-driven waves
     year: '2026'
   ofp5PZcAAAAJ:Zph67rFs4hoC:
-    citations: 25
+    citations: 26
     title: Experimental observations and modeling of sub-Hinze bubble production by turbulent bubble break-up
     year: '2022'
   ofp5PZcAAAAJ:_kc_bZDykSQC:
@@ -98,7 +98,7 @@ papers:
     title: "Three\u2010Dimensional Measurements of Air Entrainment and Enhanced Bubble Transport During Wave Breaking"
     year: '2022'
   ofp5PZcAAAAJ:aqlVkmm33-oC:
-    citations: 21
+    citations: 23
     title: Structure and energy transfer in homogeneous turbulence below a free surface
     year: '2024'
   ofp5PZcAAAAJ:dhFuZR0502QC:

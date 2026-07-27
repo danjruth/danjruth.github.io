@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-27'
 papers:
   ofp5PZcAAAAJ:0EnyYjriUFMC:
     citations: 34
@@ -66,7 +66,7 @@ papers:
     title: 'Time Series Analysis of Photovoltaic Soiling Station Data: Version 1.0, August 2017'
     year: '2017'
   ofp5PZcAAAAJ:UebtZRa9Y70C:
-    citations: 34
+    citations: 33
     title: Bubble pinch-off in turbulence
     year: '2019'
   ofp5PZcAAAAJ:W7OEmFMy1HYC:

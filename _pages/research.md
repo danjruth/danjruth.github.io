@@ -60,6 +60,11 @@ Turbulence beneath a free surface imprints itself on the surface, causing deform
 
 In this experiment, the velocity beneath the surface is measured with **particle image velocimetry** and the surface elevation field is measured with **background-oriented schlieren**. The red and blue on the left shows the surface-normal vorticity and the green and purple on the right show the horizontal divergence of velocity. The surface morphology is represented by the curved lines, which come closer to each other at surface depressions (dimples) and farther apart at bulges in the surface.
 
+**Related Publications:**
+<div class="publications">
+  {% bibliography --group_by none -q @*[project=surfdef]* %}
+</div>
+
 ---
 
 ### Turbulence near free surfaces

@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-10'
 papers:
   ofp5PZcAAAAJ:0EnyYjriUFMC:
-    citations: 34
+    citations: 35
     title: The effect of nonlinear drag on the rise velocity of bubbles in turbulence
     year: '2021'
   ofp5PZcAAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: Origin of the sub-Hinze scale bubble production in turbulence
     year: '2021'
   ofp5PZcAAAAJ:4DMP91E08xMC:
@@ -98,7 +98,7 @@ papers:
     title: "Three\u2010Dimensional Measurements of Air Entrainment and Enhanced Bubble Transport During Wave Breaking"
     year: '2022'
   ofp5PZcAAAAJ:aqlVkmm33-oC:
-    citations: 22
+    citations: 24
     title: Structure and energy transfer in homogeneous turbulence below a free surface
     year: '2024'
   ofp5PZcAAAAJ:dhFuZR0502QC:
@@ -114,7 +114,7 @@ papers:
     title: Rise Velocity of Bubbles in Turbulence
     year: '2020'
   ofp5PZcAAAAJ:kNdYIx-mwKoC:
-    citations: 44
+    citations: 45
     title: Capillary driven fragmentation of large gas bubbles in turbulence
     year: '2022'
   ofp5PZcAAAAJ:mVmsd5A6BfQC:
